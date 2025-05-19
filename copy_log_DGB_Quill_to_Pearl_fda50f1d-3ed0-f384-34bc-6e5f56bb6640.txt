@@ -1,0 +1,216 @@
+====================================================== 
+   BG3 MOD BACKUP DETAILED LOG - DGB_Quill_to_Pearl_fda50f1d-3ed0-f384-34bc-6e5f56bb6640 
+   Mon 05/19/2025  6:56:39.23 
+====================================================== 
+ 
+BG3 Path: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data 
+Backup folder: C:\GIT_BG3\MOD_REPOS\DGB_Quill_to_Pearl_fda50f1d-3ed0-f384-34bc-6e5f56bb6640 
+ 
+[FILE COPYING REPORT] 
+====================================================== 
+SECTION 1: FILES FOUND 
+------------------------------------------------------------------------ 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Quill_to_Pearl_fda50f1d-3ed0-f384-34bc-6e5f56bb6640 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Quill_to_Pearl_fda50f1d-3ed0-f384-34bc-6e5f56bb6640\meta.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Quill_to_Pearl_fda50f1d-3ed0-f384-34bc-6e5f56bb6640\thumbnail.png 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Quill_to_Pearl_fda50f1d-3ed0-f384-34bc-6e5f56bb6640: 2 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Quill_to_Pearl_fda50f1d-3ed0-f384-34bc-6e5f56bb6640 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Quill_to_Pearl_fda50f1d-3ed0-f384-34bc-6e5f56bb6640\meta.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Quill_to_Pearl_fda50f1d-3ed0-f384-34bc-6e5f56bb6640\mod_publish_logo.png 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Quill_to_Pearl_fda50f1d-3ed0-f384-34bc-6e5f56bb6640\GUI\metadata.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Quill_to_Pearl_fda50f1d-3ed0-f384-34bc-6e5f56bb6640\Localization\English\english.xml 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Quill_to_Pearl_fda50f1d-3ed0-f384-34bc-6e5f56bb6640: 4 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Quill_to_Pearl_fda50f1d-3ed0-f384-34bc-6e5f56bb6640 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Quill_to_Pearl_fda50f1d-3ed0-f384-34bc-6e5f56bb6640\Content\[PAK]_DGB_Quill_to_Pearl\3d49a8e0-25f3-9efa-8c00-f9b73962d24e.lsf 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Quill_to_Pearl_fda50f1d-3ed0-f384-34bc-6e5f56bb6640: 1 
+ 
+[LOG] Total files found across all folders: 7 
+ 
+SECTION 2: COPY OPERATIONS 
+------------------------------------------------------------------------ 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\DGB_Quill_to_Pearl_fda50f1d-3ed0-f384-34bc-6e5f56bb6640\Projects\DGB_Quill_to_Pearl_fda50f1d-3ed0-f384-34bc-6e5f56bb6640\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Quill_to_Pearl_fda50f1d-3ed0-f384-34bc-6e5f56bb6640 to Projects\DGB_Quill_to_Pearl_fda50f1d-3ed0-f384-34bc-6e5f56bb6640 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Quill_to_Pearl_fda50f1d-3ed0-f384-34bc-6e5f56bb6640 
+[DEBUG] Using destination: Projects\DGB_Quill_to_Pearl_fda50f1d-3ed0-f384-34bc-6e5f56bb6640 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, May 19, 2025 6:56:42 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Quill_to_Pearl_fda50f1d-3ed0-f384-34bc-6e5f56bb6640\
+     Dest : C:\GIT_BG3\MOD_REPOS\DGB_Quill_to_Pearl_fda50f1d-3ed0-f384-34bc-6e5f56bb6640\Projects\DGB_Quill_to_Pearl_fda50f1d-3ed0-f384-34bc-6e5f56bb6640\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		     696	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Quill_to_Pearl_fda50f1d-3ed0-f384-34bc-6e5f56bb6640\meta.lsx100%  
+	    New File  		  794183	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Quill_to_Pearl_fda50f1d-3ed0-f384-34bc-6e5f56bb6640\thumbnail.png100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         1         1         0         0         0
+   Files :         2         2         0         0         0         0
+   Bytes :   776.2 k   776.2 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :           794879000 Bytes/sec.
+   Speed :           45483.341 MegaBytes/min.
+   Ended : Monday, May 19, 2025 6:56:42 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 2 
+[DEBUG] Successfully copied files: 2 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Quill_to_Pearl_fda50f1d-3ed0-f384-34bc-6e5f56bb6640: 
+      Total files: 2 
+      Copied successfully: 2 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\DGB_Quill_to_Pearl_fda50f1d-3ed0-f384-34bc-6e5f56bb6640\Mods\DGB_Quill_to_Pearl_fda50f1d-3ed0-f384-34bc-6e5f56bb6640\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Quill_to_Pearl_fda50f1d-3ed0-f384-34bc-6e5f56bb6640 to Mods\DGB_Quill_to_Pearl_fda50f1d-3ed0-f384-34bc-6e5f56bb6640 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Quill_to_Pearl_fda50f1d-3ed0-f384-34bc-6e5f56bb6640 
+[DEBUG] Using destination: Mods\DGB_Quill_to_Pearl_fda50f1d-3ed0-f384-34bc-6e5f56bb6640 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, May 19, 2025 6:56:45 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Quill_to_Pearl_fda50f1d-3ed0-f384-34bc-6e5f56bb6640\
+     Dest : C:\GIT_BG3\MOD_REPOS\DGB_Quill_to_Pearl_fda50f1d-3ed0-f384-34bc-6e5f56bb6640\Mods\DGB_Quill_to_Pearl_fda50f1d-3ed0-f384-34bc-6e5f56bb6640\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		    7085	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Quill_to_Pearl_fda50f1d-3ed0-f384-34bc-6e5f56bb6640\meta.lsx100%  
+	    New File  		  794183	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Quill_to_Pearl_fda50f1d-3ed0-f384-34bc-6e5f56bb6640\mod_publish_logo.png  0%  100%  
+	    New File  		    1141	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Quill_to_Pearl_fda50f1d-3ed0-f384-34bc-6e5f56bb6640\GUI\metadata.lsf100%  
+	    New File  		     137	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Quill_to_Pearl_fda50f1d-3ed0-f384-34bc-6e5f56bb6640\Localization\English\english.xml100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         4         4         1         0         0         0
+   Files :         4         4         0         0         0         0
+   Bytes :   783.7 k   783.7 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :           401273000 Bytes/sec.
+   Speed :           22961.025 MegaBytes/min.
+   Ended : Monday, May 19, 2025 6:56:45 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 4 
+[DEBUG] Successfully copied files: 4 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Quill_to_Pearl_fda50f1d-3ed0-f384-34bc-6e5f56bb6640: 
+      Total files: 4 
+      Copied successfully: 4 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\DGB_Quill_to_Pearl_fda50f1d-3ed0-f384-34bc-6e5f56bb6640\Public\DGB_Quill_to_Pearl_fda50f1d-3ed0-f384-34bc-6e5f56bb6640\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Quill_to_Pearl_fda50f1d-3ed0-f384-34bc-6e5f56bb6640 to Public\DGB_Quill_to_Pearl_fda50f1d-3ed0-f384-34bc-6e5f56bb6640 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Quill_to_Pearl_fda50f1d-3ed0-f384-34bc-6e5f56bb6640 
+[DEBUG] Using destination: Public\DGB_Quill_to_Pearl_fda50f1d-3ed0-f384-34bc-6e5f56bb6640 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, May 19, 2025 6:56:47 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Quill_to_Pearl_fda50f1d-3ed0-f384-34bc-6e5f56bb6640\
+     Dest : C:\GIT_BG3\MOD_REPOS\DGB_Quill_to_Pearl_fda50f1d-3ed0-f384-34bc-6e5f56bb6640\Public\DGB_Quill_to_Pearl_fda50f1d-3ed0-f384-34bc-6e5f56bb6640\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		   10456	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Quill_to_Pearl_fda50f1d-3ed0-f384-34bc-6e5f56bb6640\Content\[PAK]_DGB_Quill_to_Pearl\3d49a8e0-25f3-9efa-8c00-f9b73962d24e.lsf100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         3         3         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    10.2 k    10.2 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :            10456000 Bytes/sec.
+   Speed :             598.297 MegaBytes/min.
+   Ended : Monday, May 19, 2025 6:56:47 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 1 
+[DEBUG] Successfully copied files: 1 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Quill_to_Pearl_fda50f1d-3ed0-f384-34bc-6e5f56bb6640: 
+      Total files: 1 
+      Copied successfully: 1 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+SECTION 3: FALLBACK COPY ATTEMPTS 
+------------------------------------------------------------------------ 
+ 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Quill_to_Pearl_fda50f1d-3ed0-f384-34bc-6e5f56bb6640 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 2 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Quill_to_Pearl_fda50f1d-3ed0-f384-34bc-6e5f56bb6640 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 4 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Quill_to_Pearl_fda50f1d-3ed0-f384-34bc-6e5f56bb6640 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 1 
+SECTION 4: FINAL SUMMARY 
+------------------------------------------------------------------------ 
+ 
+[SUMMARY] Total mod folders found: 1 
+[SUMMARY] Total files found: 7 
+[SUMMARY] Total files successfully copied: 14 
+ 
+[SUMMARY] All files were copied successfully 
+ 
+====================================================== 

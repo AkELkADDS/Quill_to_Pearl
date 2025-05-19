@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="8" revision="0" build="10"/>
+    <region id="MetaData">
+        <node id="root">
+            <attribute id="GameProject" type="LSString" value=""/>
+            <attribute id="Module" type="LSString" value="fda50f1d-3ed0-f384-34bc-6e5f56bb6640"/>
+            <attribute id="Name" type="LSString" value="DGB_Quill_to_Pearl"/>
+            <attribute id="UUID" type="LSString" value="21f92570-e51f-bf87-0670-48f9a52b6cd7"/>
+            <attribute id="UpdatedDependencies" type="bool" value="true"/>
+            <children>
+                <node id="Categories"/>
+            </children>
+        </node>
+    </region>
+</save>
