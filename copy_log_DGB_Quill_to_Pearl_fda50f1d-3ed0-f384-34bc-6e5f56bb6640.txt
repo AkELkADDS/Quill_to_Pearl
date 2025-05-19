@@ -1,6 +1,6 @@
 ====================================================== 
    BG3 MOD BACKUP DETAILED LOG - DGB_Quill_to_Pearl_fda50f1d-3ed0-f384-34bc-6e5f56bb6640 
-   Mon 05/19/2025  6:56:39.23 
+   Tue 05/20/2025  2:08:34.05 
 ====================================================== 
  
 BG3 Path: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data 
@@ -49,7 +49,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Monday, May 19, 2025 6:56:42 AM
+  Started : Tuesday, May 20, 2025 2:08:37 AM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Quill_to_Pearl_fda50f1d-3ed0-f384-34bc-6e5f56bb6640\
      Dest : C:\GIT_BG3\MOD_REPOS\DGB_Quill_to_Pearl_fda50f1d-3ed0-f384-34bc-6e5f56bb6640\Projects\DGB_Quill_to_Pearl_fda50f1d-3ed0-f384-34bc-6e5f56bb6640\
 
@@ -60,7 +60,7 @@ SECTION 2: COPY OPERATIONS
 ------------------------------------------------------------------------------
 
 	    New File  		     696	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Quill_to_Pearl_fda50f1d-3ed0-f384-34bc-6e5f56bb6640\meta.lsx100%  
-	    New File  		  794183	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Quill_to_Pearl_fda50f1d-3ed0-f384-34bc-6e5f56bb6640\thumbnail.png100%  
+	    New File  		  794183	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Quill_to_Pearl_fda50f1d-3ed0-f384-34bc-6e5f56bb6640\thumbnail.png  0%  100%  
 
 ------------------------------------------------------------------------------
 
@@ -73,7 +73,7 @@ SECTION 2: COPY OPERATIONS
 
    Speed :           794879000 Bytes/sec.
    Speed :           45483.341 MegaBytes/min.
-   Ended : Monday, May 19, 2025 6:56:42 AM
+   Ended : Tuesday, May 20, 2025 2:08:37 AM
 
  
 [DEBUG] Counting source files 
@@ -99,7 +99,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Monday, May 19, 2025 6:56:45 AM
+  Started : Tuesday, May 20, 2025 2:08:40 AM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Quill_to_Pearl_fda50f1d-3ed0-f384-34bc-6e5f56bb6640\
      Dest : C:\GIT_BG3\MOD_REPOS\DGB_Quill_to_Pearl_fda50f1d-3ed0-f384-34bc-6e5f56bb6640\Mods\DGB_Quill_to_Pearl_fda50f1d-3ed0-f384-34bc-6e5f56bb6640\
 
@@ -110,7 +110,7 @@ SECTION 2: COPY OPERATIONS
 ------------------------------------------------------------------------------
 
 	    New File  		    7085	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Quill_to_Pearl_fda50f1d-3ed0-f384-34bc-6e5f56bb6640\meta.lsx100%  
-	    New File  		  794183	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Quill_to_Pearl_fda50f1d-3ed0-f384-34bc-6e5f56bb6640\mod_publish_logo.png  0%  100%  
+	    New File  		  794183	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Quill_to_Pearl_fda50f1d-3ed0-f384-34bc-6e5f56bb6640\mod_publish_logo.png100%  
 	    New File  		    1141	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Quill_to_Pearl_fda50f1d-3ed0-f384-34bc-6e5f56bb6640\GUI\metadata.lsf100%  
 	    New File  		     137	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Quill_to_Pearl_fda50f1d-3ed0-f384-34bc-6e5f56bb6640\Localization\English\english.xml100%  
 
@@ -125,7 +125,7 @@ SECTION 2: COPY OPERATIONS
 
    Speed :           401273000 Bytes/sec.
    Speed :           22961.025 MegaBytes/min.
-   Ended : Monday, May 19, 2025 6:56:45 AM
+   Ended : Tuesday, May 20, 2025 2:08:40 AM
 
  
 [DEBUG] Counting source files 
@@ -151,7 +151,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Monday, May 19, 2025 6:56:47 AM
+  Started : Tuesday, May 20, 2025 2:08:42 AM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Quill_to_Pearl_fda50f1d-3ed0-f384-34bc-6e5f56bb6640\
      Dest : C:\GIT_BG3\MOD_REPOS\DGB_Quill_to_Pearl_fda50f1d-3ed0-f384-34bc-6e5f56bb6640\Public\DGB_Quill_to_Pearl_fda50f1d-3ed0-f384-34bc-6e5f56bb6640\
 
@@ -174,7 +174,7 @@ SECTION 2: COPY OPERATIONS
 
    Speed :            10456000 Bytes/sec.
    Speed :             598.297 MegaBytes/min.
-   Ended : Monday, May 19, 2025 6:56:47 AM
+   Ended : Tuesday, May 20, 2025 2:08:42 AM
 
  
 [DEBUG] Counting source files 
