@@ -44,11 +44,11 @@
                 <node id="ModuleInfo">
                     <attribute id="Author" type="LSString" value="AkELkA"/>
                     <attribute id="CharacterCreationLevelName" type="FixedString" value=""/>
-                    <attribute id="Description" type="LSString" value="Change bard Quil to Pearl. Dark Urge playtrough only"/>
+                    <attribute id="Description" type="LSString" value="Change bard Quil to Pearl. Fixes her passives. Dark Urge playtrough only."/>
                     <attribute id="FileSize" type="uint64" value="0"/>
                     <attribute id="Folder" type="LSString" value="DGB_Quill_to_Pearl_fda50f1d-3ed0-f384-34bc-6e5f56bb6640"/>
                     <attribute id="LobbyLevelName" type="FixedString" value=""/>
-                    <attribute id="MD5" type="LSString" value="c0a8f3412870277331306e0719fc6f77"/>
+                    <attribute id="MD5" type="LSString" value="75534b346641d1b3633f2f5c4b4c8818"/>
                     <attribute id="MenuLevelName" type="FixedString" value=""/>
                     <attribute id="Name" type="LSString" value="Quil to Pearl - NPC Dragonborn replacer"/>
                     <attribute id="NumPlayers" type="uint8" value="4"/>
@@ -56,7 +56,7 @@
                     <attribute id="PublishHandle" type="uint64" value="4864042"/>
                     <attribute id="StartupLevelName" type="FixedString" value=""/>
                     <attribute id="UUID" type="FixedString" value="fda50f1d-3ed0-f384-34bc-6e5f56bb6640"/>
-                    <attribute id="Version64" type="int64" value="36028797018963972"/>
+                    <attribute id="Version64" type="int64" value="36028797018963974"/>
                     <children>
                         <node id="PublishVersion">
                             <attribute id="Version64" type="int64" value="144255927717549775"/>
