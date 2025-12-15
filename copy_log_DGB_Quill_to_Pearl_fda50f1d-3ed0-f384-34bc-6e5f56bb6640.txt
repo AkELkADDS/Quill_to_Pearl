@@ -1,6 +1,6 @@
 ====================================================== 
    BG3 MOD BACKUP DETAILED LOG - DGB_Quill_to_Pearl_fda50f1d-3ed0-f384-34bc-6e5f56bb6640 
-   Sun 12/14/2025 23:48:27.27 
+   Mon 12/15/2025 12:34:05.97 
 ====================================================== 
  
 BG3 Path: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data 
@@ -57,7 +57,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Sunday, December 14, 2025 11:48:31 PM
+  Started : Monday, December 15, 2025 12:34:09 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Quill_to_Pearl_fda50f1d-3ed0-f384-34bc-6e5f56bb6640\
      Dest : C:\GIT_BG3\MOD_REPOS\DGB_Quill_to_Pearl_fda50f1d-3ed0-f384-34bc-6e5f56bb6640\Projects\DGB_Quill_to_Pearl_fda50f1d-3ed0-f384-34bc-6e5f56bb6640\
 
@@ -81,7 +81,7 @@ SECTION 2: COPY OPERATIONS
 
    Speed :           789253000 Bytes/sec.
    Speed :           45161.418 MegaBytes/min.
-   Ended : Sunday, December 14, 2025 11:48:31 PM
+   Ended : Monday, December 15, 2025 12:34:09 PM
 
  
 [DEBUG] Counting source files 
@@ -107,7 +107,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Sunday, December 14, 2025 11:48:33 PM
+  Started : Monday, December 15, 2025 12:34:11 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Quill_to_Pearl_fda50f1d-3ed0-f384-34bc-6e5f56bb6640\
      Dest : C:\GIT_BG3\MOD_REPOS\DGB_Quill_to_Pearl_fda50f1d-3ed0-f384-34bc-6e5f56bb6640\Editor\Mods\DGB_Quill_to_Pearl_fda50f1d-3ed0-f384-34bc-6e5f56bb6640\
 
@@ -125,7 +125,7 @@ SECTION 2: COPY OPERATIONS
    Files :         0         0         0         0         0         0
    Bytes :         0         0         0         0         0         0
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
-   Ended : Sunday, December 14, 2025 11:48:33 PM
+   Ended : Monday, December 15, 2025 12:34:11 PM
 
  
 [DEBUG] Counting source files 
@@ -151,7 +151,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Sunday, December 14, 2025 11:48:35 PM
+  Started : Monday, December 15, 2025 12:34:13 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Quill_to_Pearl_fda50f1d-3ed0-f384-34bc-6e5f56bb6640\
      Dest : C:\GIT_BG3\MOD_REPOS\DGB_Quill_to_Pearl_fda50f1d-3ed0-f384-34bc-6e5f56bb6640\Mods\DGB_Quill_to_Pearl_fda50f1d-3ed0-f384-34bc-6e5f56bb6640\
 
@@ -165,8 +165,8 @@ SECTION 2: COPY OPERATIONS
 	    New File  		  788557	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Quill_to_Pearl_fda50f1d-3ed0-f384-34bc-6e5f56bb6640\mod_publish_logo.png100%  
 	    New File  		    1358	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Quill_to_Pearl_fda50f1d-3ed0-f384-34bc-6e5f56bb6640\GUI\metadata.lsf100%  
 	    New File  		     137	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Quill_to_Pearl_fda50f1d-3ed0-f384-34bc-6e5f56bb6640\Localization\English\english.xml100%  
-	    New File  		   11680	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Quill_to_Pearl_fda50f1d-3ed0-f384-34bc-6e5f56bb6640\GUI\Assets\Portraits\3d49a8e0-25f3-9efa-8c00-f9b73962d24e-_(Icon_Dragonborn_Female).DDS100%  
 	    New File  		    2006	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Quill_to_Pearl_fda50f1d-3ed0-f384-34bc-6e5f56bb6640\Globals\WLD_Main_A\Characters\_merged.lsf100%  
+	    New File  		   11680	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Quill_to_Pearl_fda50f1d-3ed0-f384-34bc-6e5f56bb6640\GUI\Assets\Portraits\3d49a8e0-25f3-9efa-8c00-f9b73962d24e-_(Icon_Dragonborn_Female).DDS100%  
 
 ------------------------------------------------------------------------------
 
@@ -177,9 +177,9 @@ SECTION 2: COPY OPERATIONS
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :           270281000 Bytes/sec.
-   Speed :           15465.602 MegaBytes/min.
-   Ended : Sunday, December 14, 2025 11:48:35 PM
+   Speed :           405421500 Bytes/sec.
+   Speed :           23198.404 MegaBytes/min.
+   Ended : Monday, December 15, 2025 12:34:13 PM
 
  
 [DEBUG] Counting source files 
@@ -205,7 +205,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Sunday, December 14, 2025 11:48:37 PM
+  Started : Monday, December 15, 2025 12:34:15 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Quill_to_Pearl_fda50f1d-3ed0-f384-34bc-6e5f56bb6640\
      Dest : C:\GIT_BG3\MOD_REPOS\DGB_Quill_to_Pearl_fda50f1d-3ed0-f384-34bc-6e5f56bb6640\Public\DGB_Quill_to_Pearl_fda50f1d-3ed0-f384-34bc-6e5f56bb6640\
 
@@ -216,20 +216,20 @@ SECTION 2: COPY OPERATIONS
 ------------------------------------------------------------------------------
 
 	    New File  		   10707	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Quill_to_Pearl_fda50f1d-3ed0-f384-34bc-6e5f56bb6640\Content\[PAK]_DGB_Quill_to_Pearl\3d49a8e0-25f3-9efa-8c00-f9b73962d24e.lsf100%  
-	    New File  		     934	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Quill_to_Pearl_fda50f1d-3ed0-f384-34bc-6e5f56bb6640\Stats\Generated\Data\Character.txt100%  
+	    New File  		     968	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Quill_to_Pearl_fda50f1d-3ed0-f384-34bc-6e5f56bb6640\Stats\Generated\Data\Character.txt100%  
 
 ------------------------------------------------------------------------------
 
                Total    Copied   Skipped  Mismatch    FAILED    Extras
     Dirs :         6         6         1         0         0         0
    Files :         2         2         0         0         0         0
-   Bytes :    11.3 k    11.3 k         0         0         0         0
+   Bytes :    11.4 k    11.4 k         0         0         0         0
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :            11641000 Bytes/sec.
-   Speed :             666.103 MegaBytes/min.
-   Ended : Sunday, December 14, 2025 11:48:37 PM
+   Speed :            11675000 Bytes/sec.
+   Speed :             668.048 MegaBytes/min.
+   Ended : Monday, December 15, 2025 12:34:15 PM
 
  
 [DEBUG] Counting source files 
